@@ -16,7 +16,7 @@ This is a Java-based console application that simulates a dynamic load balancer 
 - `LoadBalancer.java` – Core logic for distributing and rebalancing
 - `Processor.java` – Represents a processor handling tasks
 - `Task.java` – Represents an individual task
-- `metrics.txt` – Log file for tracking processor loads
+- `metrics.txt` – Logging file for tracking processor loads
 
 ## 🔧 How to Run
 
