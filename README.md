@@ -2,7 +2,7 @@
 
 This is a Java-based console application that simulates a dynamic load balancer distributing tasks among multiple processors.
 
-## 🚀 Features
+##  Features
 
 - Add tasks with CPU cycles
 - Dynamically add processors
@@ -10,7 +10,7 @@ This is a Java-based console application that simulates a dynamic load balancer 
 - Logs processor loads to metrics.txt
 - Text-based load visualization in console
 
-## 📂 Project Structure
+##  Project Structure
 
 - `Main.java` – Command-line interface
 - `LoadBalancer.java` – Core logic for distributing and rebalancing
@@ -18,7 +18,7 @@ This is a Java-based console application that simulates a dynamic load balancer 
 - `Task.java` – Represents an individual task
 - `metrics.txt` – Logging file for tracking processor loads
 
-## 🔧 How to Run
+##  How to Run
 
 1. **Clone the repo**:
    ```bash
